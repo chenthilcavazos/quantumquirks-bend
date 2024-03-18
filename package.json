@@ -1,0 +1,28 @@
+{
+  "name": "quantumquirks-bend",
+  "version": "1.0.0",
+  "description": "QuantumQuirks is a Node.js module containing quirky functions for quantum experiences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenthilcavazos/quantumquirks-bend"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "celestial-harmony-tie": "1.0.0",
+    "image-utils-pose": "1.0.0",
+    "stir-cognitive-kit": "1.0.0",
+    "insightful-utils-use": "1.0.0",
+    "magic-sink": "1.0.0",
+    "cosmic-essence-wish": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenthilcavazos/quantumquirks-bend/issues"
+  },
+  "homepage": "https://github.com/chenthilcavazos/quantumquirks-bend#readme"
+}
